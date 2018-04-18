@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 ##### node node-js-getting-started
 =======
-#  node-js-getting-started ###############
+# ### node-js-getting-started ###############
 >>>>>>> 98bb3b0fa0f4fd78a9762e5f8ff3e1da287d4142
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
