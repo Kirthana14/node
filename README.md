@@ -1,19 +1,7 @@
-<<<<<<< HEAD
-#node-js-getting-started
-<<<<<<< HEAD
-<<<<<<< HEAD
-========
-#####  node-js-getting-started ###############
-========
-========
-###  node-js-getting-started ###############
->>>>>>> aa7d72719dfdb611da2918b659e9a2e3ba2e0a66
-========
-========
-#  node-js-getting-started ###############
->>>>>>> c6cde124f06047b9835a25b8d886e11f7eeb0ee1
->>>>>>> 98bb3b0fa0f4fd78a9762e5f8ff3e1da287d4142
 
+#node-js-getting-started
+###  node-js-getting-started ###############
+#  node-js-getting-started ###############
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
